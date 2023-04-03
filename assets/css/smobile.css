@@ -235,6 +235,8 @@ form select, form input {
 /* Contact area styling */
 .head-contact {
     height: 100vh;
+    background-size: cover;
+    background-position: 60%;
 }
 
 .contact-mid-tag-line h2 {
