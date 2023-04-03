@@ -8,3 +8,6 @@
 .breakfast-menu p, .lunch-menu p, .evening-menu p {
     padding-right: 1rem;
 }
+ul li.p{
+    width:17rem;
+  }
