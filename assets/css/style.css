@@ -171,7 +171,7 @@ input#radio1, #radio2,
 
 .slider-title {
   position: absolute;
-  top: 50%;
+  top: 55%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1267,3 +1267,4 @@ transform: translateY(0);
   filter: blur(0);
   margin-top: 0;
 }
+
