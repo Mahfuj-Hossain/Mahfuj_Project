@@ -76,6 +76,11 @@
 
 
 /*Contact & location outlet styling here */
+.head-contact {
+    height: 100vh;
+    background-size: auto;
+    background-position: 70% ;
+}
 .contact-mid-tag-line p {
     width: 25rem;
     border-radius: 0.4rem;
