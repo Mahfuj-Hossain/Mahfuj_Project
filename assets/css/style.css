@@ -996,7 +996,7 @@ ul li.p{
              The Blog Area is started from here
   ----------------------------------------------------*/
   .head-blog{
-    background:linear-gradient(rgba(0, 0, 0, 0.683),rgba(0, 0, 0, 0.683)), url(../images/m9.jpg) no-repeat;
+    background:linear-gradient(rgba(0, 0, 0, 0.322),rgba(0, 0, 0, 0.265)), url(../images/m9.jpg) no-repeat;
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
