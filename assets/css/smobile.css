@@ -192,7 +192,7 @@ form select, form input {
 .about_mid_tag_line h2 {
     font-size: 2rem;
     position: absolute;
-    top: 60%;
+    top: 50%;
 }
 .about {
     display: grid;
